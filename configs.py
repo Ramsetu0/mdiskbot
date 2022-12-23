@@ -6,7 +6,7 @@ import os
 
 class Config(object):
     API_ID = int(os.getenv("API_ID", "29463542"))
-    API_HASH = os.getenv("API_HASH", "99f5ffb747ebc1ef7bda34db8f44da68)
+    API_HASH = os.getenv("API_HASH", "99f5ffb747ebc1ef7bda34db8f44da68")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5774116623:AAF6Fj0ukUUxoFKdDm1A3yZj5Vpw5jy3vlQ")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdiskcynitebot")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOGgBu5YuCA6XSH55I8iXKO8OiIdW9m6Siow2Z6dGjF7yfwfhCAZ0zMJdr3ZXZhAVaoB4GAHNZY4iPVVmfTKEwJ_3tWnQKHkt70vJl5_PwSgFlppmBQfvRGvUmF3YcHsxmOcGRPvV_zosJOHZ5w_n1RhNK3Sca0cSxN7_1vv0Qg2KEHfnOeuDrRFkHzZoLuTN9UeD-gvThAxWjq1VHAjxnBBYih5EOD2_3z5GpUSdvKIZloTVTPwo3hSd8ePuOJjXYXJMrhHsTG0_r1En-ainPx-MjTP5va04otLh6D4GFSgxAAszZprItPd13BcP1O0q-hnWPskR0XG1aBUjSu9-EZIwUU4=")
